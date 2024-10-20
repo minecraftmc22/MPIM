@@ -1,0 +1,17 @@
+5				The Chainsmokers - Channel 1
+11				The Chainsmokers - Cyanide
+13				The Chainsmokers - High
+blocks		The Chainsmokers - I Hope You Change Your Mind
+cat			The Chainsmokers - I Love U
+chirp			The Chainsmokers - If You're Serious
+far				The Chainsmokers - In Too Deep
+mall			The Chainsmokers - iPad
+mellohi		The Chainsmokers - Maradona
+otherside	The Chainsmokers - Riptide
+pigstep		The Chainsmokers - Solo Mission
+relic			The Chainsmokers - Something Different
+stal			The Chainsmokers - Testing
+strad			The Chainsmokers - Time Bomb
+wait			The Chainsmokers,Bob Moses - Why Can't You Wait
+ward			The Chainsmokers,Ship Wrek - The Fall
+
